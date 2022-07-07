@@ -6,5 +6,6 @@ public class TestJava {
         System.out.println(222);
         System.out.println(345);
         System.out.println(456);
+        System.out.println(678);
     }
 }
